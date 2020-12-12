@@ -5,7 +5,7 @@ Building AI course project
 
 ## Summary
 
-SME's in fashion retail pick their collections/stock for the upcoming seasons based on experience from the past years. Providing a prediction of how well (read: fast, without discount) a certain piece would sell based on a picture, would help them making more data-driven decisions.
+SME's in fashion retail pick their collectionsfor the upcoming seasons based on experience from the past years. Providing a prediction of how fast, without discount a certain piece would sell, would help them making more data-driven decisions.
 
 
 ## Background
