@@ -1,5 +1,5 @@
 
-# Project Title
+# AI in fashion retail
 
 Building AI course project
 
